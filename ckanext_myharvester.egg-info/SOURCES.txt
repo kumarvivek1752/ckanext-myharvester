@@ -7,7 +7,6 @@ setup.py
 ckanext/__init__.py
 ckanext/myharvester/__init__.py
 ckanext/myharvester/cli.py
-ckanext/myharvester/harvester.py
 ckanext/myharvester/helpers.py
 ckanext/myharvester/plugin.py
 ckanext/myharvester/views.py
